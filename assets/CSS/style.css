@@ -145,7 +145,7 @@
   }
   
   .flex-links {
-    /* flex: 0 0 60%; */
+     
     align-self: center;
     text-align: center;
     text-decoration: none;
@@ -172,7 +172,7 @@
   }
   
   .flex-links address a:hover {
-    color: var(--primary-color);
+    color: #5ab9b9;
   }
   
   .box-wrapper {
